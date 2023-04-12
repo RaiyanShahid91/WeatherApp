@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/nav_home_fragment">
+
+    <fragment
+        android:id="@+id/nav_home_fragment"
+        android:name="com.coding.weather.fragments.WeatherFragment"
+        android:label="Weather Fragment"
+        tools:layout="@layout/fragment_weather" />
+
+    <fragment
+        android:id="@+id/nav_search_fragment"
+        android:name="com.coding.weather.fragments.SearchWeatherFragment"
+        android:label="Search Fragment"
+        tools:layout="@layout/fragment_search_weather" />
+
+</navigation>

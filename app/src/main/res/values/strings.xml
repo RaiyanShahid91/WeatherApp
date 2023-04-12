@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="c">ºC</string>
+    <string name="apiKey">f7f5b4e692d70bd47fde1ad2b5b87e05</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_city_name">City..</string>
+    <string name="enter_state_name">State..</string>
+    <string name="enter_zip_code">Zip Code..</string>
+</resources>
