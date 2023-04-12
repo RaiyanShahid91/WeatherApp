@@ -1,11 +1,11 @@
 # WeatherApp
 
-This Application is made for Android Phones.
-IDE - Android Studio
-Languages used - Java and Kotlin
-Followed MVVM Patern.
+1.This Application is made for Android Phones.
+2.IDE - Android Studio
+3.Languages used - Java and Kotlin
+4.Followed MVVM Pattern.
 
-Weather Application UI
+
 ![WhatsApp Image 2023-04-09 at 01 20 48 (1)](https://user-images.githubusercontent.com/69901154/231431524-597c8e6c-ac08-4e96-a5ad-8c4bde00b3d0.jpeg)
 ![WhatsApp Image 2023-04-09 at 01 20 48](https://user-images.githubusercontent.com/69901154/231431530-c7524631-4263-4f7c-b3d1-62b68d6987a6.jpeg)
 ![WhatsApp Image 2023-04-09 at 01 20 53 (1)](https://user-images.githubusercontent.com/69901154/231431532-523d0967-9211-45c0-8795-8462e89d4d2f.jpeg)
